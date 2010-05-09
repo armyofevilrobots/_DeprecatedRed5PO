@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3279/flash/trunk/selftest/mk
+END
+Mac OS X.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3182/flash/trunk/selftest/mk/Mac%20OS%20X.properties
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3279/flash/trunk/selftest/mk/ivy.xml
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3182/flash/trunk/selftest/mk/ivysettings.xml
+END
+flex.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3182/flash/trunk/selftest/mk/flex.properties
+END
+Linux.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3182/flash/trunk/selftest/mk/Linux.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3182/flash/trunk/selftest/mk/build.properties
+END
+Windows Vista.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3182/flash/trunk/selftest/mk/Windows%20Vista.properties
+END

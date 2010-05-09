@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/publisher/view/log
+END
+LogDisplayClass.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/publisher/view/log/LogDisplayClass.as
+END
+LogControlBarClass.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/publisher/view/log/LogControlBarClass.as
+END
+LogAppBarClass.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/publisher/view/log/LogAppBarClass.as
+END
+LogDisplay.mxml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2918/flash/trunk/classes/org/red5/samples/publisher/view/log/LogDisplay.mxml
+END
+LogControlBar.mxml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2918/flash/trunk/classes/org/red5/samples/publisher/view/log/LogControlBar.mxml
+END
+LogAppBar.mxml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2918/flash/trunk/classes/org/red5/samples/publisher/view/log/LogAppBar.mxml
+END

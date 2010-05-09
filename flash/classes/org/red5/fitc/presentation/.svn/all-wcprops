@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/fitc/presentation
+END
+SectionAPI.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/fitc/presentation/SectionAPI.as
+END
+ConfigDelegate.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/fitc/presentation/ConfigDelegate.as
+END
+Section.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/fitc/presentation/Section.as
+END
+SpeakerBroadcaster.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/fitc/presentation/SpeakerBroadcaster.as
+END
+Main.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/fitc/presentation/Main.as
+END
+DemoSection.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/fitc/presentation/DemoSection.as
+END

@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 40
+html-template
+bin
+bin-debug
+bin-release
+
+END

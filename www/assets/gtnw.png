@@ -1,0 +1,1104 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<!-- machid: iWXB3T2xxRVVqSkJiV0VnWEFxWE5kbkVsRFJ4RjdUYmtTSkZXVEEwM0xxaU1XMFNMbjZENVNn -->
+<head>
+					<script>
+			var yt = yt || {};
+			yt.timing = {};
+			yt.timing.cookieName = 'VISITOR_INFO1_LIVE';
+			yt.timing.defaultAction = 'watch5';
+			yt.timing.timers = {
+				'watch5': {}
+			};
+				yt.timing.experiment = '903104,900504';
+				yt.timing.wff = true;
+			yt.timing.tick = function(label, opt_action) {
+				var action = opt_action || 'watch5';
+				yt.timing.timers[action][label] = new Date().getTime();
+			};
+		
+			yt.timing.tick('start');
+		
+			try {
+				yt.timing.pt = window.gtbExternal && window.gtbExternal.pageT() ||
+							window.external && window.external.pageT;
+			} catch(e) {}
+			if (navigator.userAgent.toLowerCase().indexOf('chrome') > -1) {
+				yt.timing.pt = window.chrome && window.chrome.csi && Math.floor(window.chrome.csi().pageT);
+			}
+		</script>
+
+		<script>
+			var yt = yt || {};
+			yt.preload = {};
+			yt.preload.start = function() {
+				var img = new Image();
+				yt.preload.videoConnection = img;
+				img.onload = img.onerror = function () {
+					delete yt.preload.videoConnection;
+				};
+				img.src = 'http:\/\/v1.lscache4.c.youtube.com\/generate_204?ip=0.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor%2Coc%3AU0dWSFRPVF9FSkNNNl9MSVhB&fexp=903104%2C900504&algorithm=throttle-factor&itag=5&ipbits=0&burst=40&sver=3&expire=1273446000&key=yt1&signature=9F6478CC263C7D43E9065314D78743B570FE9DAE.D871C0A3E334E5FA80C5D7ECD7FFF93E2CE8F7DA&factor=1.25&id=b7c793a62a350672';
+				img = null;
+			};
+			yt.preload.start();
+		</script>
+
+		<title>
+		YouTube
+				- Defcon Games trailer
+	</title>
+
+				<link id="www-core-css" rel="stylesheet" href="http://s.ytimg.com/yt/cssbin/www-core-vfl163931.css">
+
+
+	
+
+		
+	<link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search">
+	<link rel="icon" href="http://s.ytimg.com/yt/favicon-vfl147246.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://s.ytimg.com/yt/favicon-vfl147246.ico" type="image/x-icon">
+		<link rel="canonical" href="/watch?v=t8eTpio1BnI">
+		<link rel="alternate" media="handheld" href="http://m.youtube.com/watch?desktop_uri=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt8eTpio1BnI&amp;v=t8eTpio1BnI&amp;gl=CA">
+		<link rel="shortlink" href="http://youtu.be/t8eTpio1BnI">
+		<meta name="title" content="Defcon Games trailer">
+
+		<meta name="description" content="It's Global Thermonuclear War, and nobody wins. DEFCON Game for Windows, Linux and OS X.its shareware version for more information go to http://www.everybody...">
+
+		<meta name="keywords" content="games, video, game, trailer, web, series">
+
+	<link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?url=http%3A//www.youtube.com/watch?v%3Dt8eTpio1BnI&format=json" title="Defcon Games trailer" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?url=http%3A//www.youtube.com/watch?v%3Dt8eTpio1BnI&format=xml" title="Defcon Games trailer" />
+
+
+		<script>
+		var gYouTubePlayerReady = false;
+		if (!window['onYouTubePlayerReady']) {
+			window['onYouTubePlayerReady'] = function() {
+				gYouTubePlayerReady = true;
+			};
+		}
+	</script>
+				<script>
+			if (window.yt.timing) {
+				yt.timing.tick('ct', '');
+			}
+		</script>
+
+
+</head>
+<body class="watch5-active date-20100505 en_US is-english">
+	<!--[if IE]><div id="ie"><![endif]-->
+	<!-- begin prepage section -->
+	<form name="logoutForm" method="post" action="/">
+		<input type="hidden" name="action_logout" value="1">
+	</form>
+	<!-- end prepage section -->
+	<div id="page" class="watch player-new-ui">
+			<!-- begin pagetop section -->
+	<div id="masthead-container">
+		<div id="masthead" class="">
+					<a href="/" title="YouTube home">
+			<img id="logo" class="master-sprite" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt="YouTube home">
+		</a>
+	<div id="masthead-search">
+		
+	<form autocomplete="off" class="search-form" action="/results" method="get" name="searchForm" onsubmit="">
+		<input id="masthead-search-term" class="search-term" name="search_query" value="defcon" type="text" tabindex="1" onkeyup="goog.i18n.bidi.setDirAttribute(event,this)"   maxlength="128">
+
+
+
+			<button type="button" class="search-button yt-uix-button" onclick="if (_gel('masthead-search-term').value != '') { document['searchForm'].submit(); }; return false;;return false;" tabindex="2" ><span class="yt-uix-button-content">Search</span></button>
+
+
+	</form>
+
+	</div>
+	<div id="masthead-nav">
+		<a href="/videos">Browse</a><a href="http://upload.youtube.com/my_videos_upload">Upload</a>
+	</div>
+		<div id="masthead-utility">
+			<button type="button" class="flip yt-uix-button yt-uix-button-text" onclick=";return false;" ><span class="yt-uix-button-content">rantenki</span> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><div style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-text">	<table>
+		<tr>
+			<td><a class="yt-uix-button-menu-item" href="/user/rantenki">My Channel</a></td>
+			<td><a class="yt-uix-button-menu-item" href="/my_subscriptions">Subscriptions</a></td>
+		</tr>
+		<tr>
+			<td><a class="yt-uix-button-menu-item" href="/inbox?folder=messages&amp;action_message=1">Inbox</a></td>
+			<td><a class="yt-uix-button-menu-item" href="/my_videos">My Videos</a></td>
+		</tr>
+		<tr>
+			<td><a class="yt-uix-button-menu-item" href="/account">Account</a></td>
+			<td><a class="yt-uix-button-menu-item" href="/my_favorites">Favorites</a></td>
+		</tr>
+	</table>
+</div></button><a class="end" href="#" onclick="document.logoutForm.submit(); return false;">Sign Out</a>
+		</div>
+
+		</div>
+	</div>
+	<div id="alerts" style="display:none">	
+</div>
+	
+	<!-- end pagetop section -->
+	<div id="content" class="">
+			<!-- begin contenttop section -->
+
+	<div id="watch-headline-container">
+				<div id="watch-headline">
+
+		<h1 id="watch-headline-title">
+			<span class=""  title="Defcon Games trailer">
+				Defcon Games trailer
+			</span>
+		</h1>
+
+		<div id="watch-headline-user-info">
+				<a id="watch-username" class="inline-block" href="/user/gckx86"><strong>gckx86</strong></a>
+			<span id="watch-video-count"
+						class="watch-expander yt-uix-expander yt-uix-expander-collapsed"
+						data-expander-action="yt.www.watch.watch5.handleToggleMoreFromUser">
+				<span class="watch-expander-head yt-uix-expander-head yt-rounded">
+					<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+2 videos
+				</span>
+			</span>
+			<button onclick="yt.www.watch.about.subscribeWatch5(yt.getConfig('VIDEO_USERNAME'), 'username', yt.getConfig('SUBSCRIBE_AXC'),'nourgent');;return false;" title="Click to be notified of new videos from this channel" type="button" class=" yt-uix-button yt-uix-tooltip" id="subscribeDiv" ><span class="yt-uix-button-content">Subscribe</span></button>
+			<button type="button" class="hid yt-uix-button" onclick="yt.www.watch.about.editSubscription(yt.getConfig('VIDEO_USERNAME'), yt.getConfig('SUBSCRIBE_AXC'), 'alerts');;return false;" id="editSubscriptionDiv" ><span class="yt-uix-button-content">Edit Subscription</span></button>
+
+		</div>
+		<div id="watch-more-from-user" class="collapsed">
+			<div id="watch-channel-discoverbox" class="yt-rounded">
+				<span id="watch-channel-loading">Loading...</span>
+			</div>
+		</div>
+
+	</div>
+
+	</div>
+	<!-- end contenttop section -->
+	<div id="watch-video-container">
+		<div id="watch-video" class=" ">
+					<script>
+			if (window.yt.timing) {
+				yt.timing.tick('bf', '');
+			}
+		</script>
+
+			<div id="watch-player" class="flash-player">
+					
+		
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+	
+		
+		
+		
+	
+	
+
+
+
+	<script>
+		(function() {
+			var isIE = /*@cc_on!@*/false;
+			var swfHTML = (isIE) ? "<object height=\"38" + "5\" width=\"64" + "0\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"movie_player\" ><param name=\"movie\" value=\"http:\/\/s.ytimg.com\/yt\/swf\/watch_as3-vfl163960.swf\"><param name=\"flashvars\" value=\"rv.7.length_seconds=33&rv.2.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2F3cwIk327cSk%2Fdefault.jpg&rv.0.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnE1KTdAC7AU&rv.0.view_count=22549&enablecsi=1&rv.2.title=Defcon+Trailer&rv.6.author=techman224&rv.3.view_count=28505&is_doubleclick_tracked=1&rv.4.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2Fmef2qRua4Oo%2Fdefault.jpg&fmt_url_map=5%7Chttp%3A%2F%2Fv1.lscache4.c.youtube.com%2Fvideoplayback%3Fip%3D0.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%252Coc%253AU0dWSFRPVF9FSkNNNl9MSVhB%26fexp%3D903104%252C900504%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D0%26burst%3D40%26sver%3D3%26expire%3D1273446000%26key%3Dyt1%26signature%3D9F6478CC263C7D43E9065314D78743B570FE9DAE.D871C0A3E334E5FA80C5D7ECD7FFF93E2CE8F7DA%26factor%3D1.25%26id%3Db7c793a62a350672&csi_page_type=watch&keywords=games%2Cvideo%2Cgame%2Ctrailer%2Cweb%2Cseries&rec_key=141DD5F44D644D09-DE1B93B150CBCDC8&rv.1.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7qHibuOutOM&rv.6.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FsYgXdyVs05c%2Fdefault.jpg&rv.3.rating=4.17543859649&fmt_list=5%2F0%2F7%2F0%2F0&rv.7.id=KZInKfQ7DyM&rv.0.rating=4.44&rv.4.rating=4.5&rv.3.title=Defcon+-+Target+London&rv.5.id=zCBoB9ecXHI&rv.0.featured=1&rv.0.id=nE1KTdAC7AU&video_recorder_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fvideo_recorder_module-vfl163103.swf&rv.5.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzCBoB9ecXHI&rv.6.length_seconds=560&sourceid=ys&timestamp=1273422953&rec_server=sjl-webcam3.sjl.youtube.com%3A80&rv.3.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FmgbZstHF6VQ%2Fdefault.jpg&rv.2.author=Th3Mobster&rv.6.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsYgXdyVs05c&fmt_map=5%2F0%2F7%2F0%2F0&hl=en_US&rec_v=t8eTpio1BnI&rv.0.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FnE1KTdAC7AU%2Fdefault.jpg&rv.5.length_seconds=219&rec_keywords=+games+video+game+trailer+web+series&referrer=http%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3Ddefcon%26aq%3Df&rv.7.author=ASSDINGER&rv.1.length_seconds=61&rv.3.id=mgbZstHF6VQ&rv.2.id=3cwIk327cSk&rv.2.length_seconds=59&t=vjVQa1PpcFMxov5P01wcuKYlkLGG91qr-NM0goZPy1A%3D&rv.6.id=sYgXdyVs05c&vq=auto&rv.6.view_count=39599&rv.3.author=blakejr&rv.4.id=mef2qRua4Oo&fexp=903104%2C900504&rv.4.author=grimone11&rv.7.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FKZInKfQ7DyM%2Fdefault.jpg&allow_embed=1&fmt_stream_map=5%7Chttp%3A%2F%2Fv1.lscache4.c.youtube.com%2Fvideoplayback%3Fip%3D0.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%252Coc%253AU0dWSFRPVF9FSkNNNl9MSVhB%26fexp%3D903104%252C900504%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D0%26burst%3D40%26sver%3D3%26expire%3D1273446000%26key%3Dyt1%26signature%3D9F6478CC263C7D43E9065314D78743B570FE9DAE.D871C0A3E334E5FA80C5D7ECD7FFF93E2CE8F7DA%26factor%3D1.25%26id%3Db7c793a62a350672&rv.2.rating=4.4347826087&rv.7.title=Defcon+Game+Cheats+Part+1&rv.0.length_seconds=283&cr=CA&user_gender=m&rv.1.id=7qHibuOutOM&q=defcon&rv.6.title=DEFCON+Game+Play&rv.4.length_seconds=104&record=1&rv.7.view_count=4069&rv.5.view_count=68576&length_seconds=68&enablejsapi=1&rec_title=Re%3A+Defcon+Games+trailer&video_id=t8eTpio1BnI&user_age=36&plid=AASGK-LRNIjSCd_a&rv.5.rating=4.15555555556&rv.0.author=lockergnome&rv.4.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dmef2qRua4Oo&rv.1.author=grimone11&rv.1.rating=4.16666666667&rv.4.title=DEFCON+Trailer&rv.5.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FzCBoB9ecXHI%2Fdefault.jpg&watermark=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Flogo-vfl106645.swf%2Chttp%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fhdlogo-vfl100714.swf&rv.0.title=DEFCON+Game+for+Windows%2C+Linux+and+OS+X&rv.7.rating=1.13333333333&rv.3.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmgbZstHF6VQ&rv.2.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3cwIk327cSk&rec_descr=Video+Cam+Direct+Upload&rv.7.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKZInKfQ7DyM&rv.2.view_count=8794&rv.4.view_count=6837&rv.1.view_count=14585&rv.5.title=DEFCON+Full+ICBM+nuclear+attack+to+USA&rv.6.rating=4.73033707865&sk=mJshhx8Cbhpf5LftPVOi4fo7_akyunIfR&rv.1.title=DEFCON+IV+game&rv.1.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2F7qHibuOutOM%2Fdefault.jpg&rec_categories=24&rv.3.length_seconds=131&rv.5.author=manonpiano\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"bgcolor\" value=\"#000000\">\n\t\n\t<div id=\"\" class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n\t\t<div class=\"yt-alert-icon master-sprite\"><\/div>\n\t\t<div id=\"\" class=\"yt-alert-content\">\n\t\t\t\t\t\tYou need Adobe Flash Player to watch this video. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Download it from Adobe.<\/a>\n\t\t<\/div>\n\t\t<div class=\"clear\"><\/div>\n\t<\/div>\n<\/object>" : "<embed height=\"38" + "5\" width=\"64" + "0\" type=\"application\/x-shockwave-flash\" src=\"http:\/\/s.ytimg.com\/yt\/swf\/watch_as3-vfl163960.swf\" id=\"movie_player\" flashvars=\"rv.7.length_seconds=33&rv.2.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2F3cwIk327cSk%2Fdefault.jpg&rv.0.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnE1KTdAC7AU&rv.0.view_count=22549&enablecsi=1&rv.2.title=Defcon+Trailer&rv.6.author=techman224&rv.3.view_count=28505&is_doubleclick_tracked=1&rv.4.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2Fmef2qRua4Oo%2Fdefault.jpg&fmt_url_map=5%7Chttp%3A%2F%2Fv1.lscache4.c.youtube.com%2Fvideoplayback%3Fip%3D0.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%252Coc%253AU0dWSFRPVF9FSkNNNl9MSVhB%26fexp%3D903104%252C900504%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D0%26burst%3D40%26sver%3D3%26expire%3D1273446000%26key%3Dyt1%26signature%3D9F6478CC263C7D43E9065314D78743B570FE9DAE.D871C0A3E334E5FA80C5D7ECD7FFF93E2CE8F7DA%26factor%3D1.25%26id%3Db7c793a62a350672&csi_page_type=watch&keywords=games%2Cvideo%2Cgame%2Ctrailer%2Cweb%2Cseries&rec_key=141DD5F44D644D09-DE1B93B150CBCDC8&rv.1.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7qHibuOutOM&rv.6.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FsYgXdyVs05c%2Fdefault.jpg&rv.3.rating=4.17543859649&fmt_list=5%2F0%2F7%2F0%2F0&rv.7.id=KZInKfQ7DyM&rv.0.rating=4.44&rv.4.rating=4.5&rv.3.title=Defcon+-+Target+London&rv.5.id=zCBoB9ecXHI&rv.0.featured=1&rv.0.id=nE1KTdAC7AU&video_recorder_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fvideo_recorder_module-vfl163103.swf&rv.5.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzCBoB9ecXHI&rv.6.length_seconds=560&sourceid=ys&timestamp=1273422953&rec_server=sjl-webcam3.sjl.youtube.com%3A80&rv.3.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FmgbZstHF6VQ%2Fdefault.jpg&rv.2.author=Th3Mobster&rv.6.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsYgXdyVs05c&fmt_map=5%2F0%2F7%2F0%2F0&hl=en_US&rec_v=t8eTpio1BnI&rv.0.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FnE1KTdAC7AU%2Fdefault.jpg&rv.5.length_seconds=219&rec_keywords=+games+video+game+trailer+web+series&referrer=http%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3Ddefcon%26aq%3Df&rv.7.author=ASSDINGER&rv.1.length_seconds=61&rv.3.id=mgbZstHF6VQ&rv.2.id=3cwIk327cSk&rv.2.length_seconds=59&t=vjVQa1PpcFMxov5P01wcuKYlkLGG91qr-NM0goZPy1A%3D&rv.6.id=sYgXdyVs05c&vq=auto&rv.6.view_count=39599&rv.3.author=blakejr&rv.4.id=mef2qRua4Oo&fexp=903104%2C900504&rv.4.author=grimone11&rv.7.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FKZInKfQ7DyM%2Fdefault.jpg&allow_embed=1&fmt_stream_map=5%7Chttp%3A%2F%2Fv1.lscache4.c.youtube.com%2Fvideoplayback%3Fip%3D0.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%252Coc%253AU0dWSFRPVF9FSkNNNl9MSVhB%26fexp%3D903104%252C900504%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D0%26burst%3D40%26sver%3D3%26expire%3D1273446000%26key%3Dyt1%26signature%3D9F6478CC263C7D43E9065314D78743B570FE9DAE.D871C0A3E334E5FA80C5D7ECD7FFF93E2CE8F7DA%26factor%3D1.25%26id%3Db7c793a62a350672&rv.2.rating=4.4347826087&rv.7.title=Defcon+Game+Cheats+Part+1&rv.0.length_seconds=283&cr=CA&user_gender=m&rv.1.id=7qHibuOutOM&q=defcon&rv.6.title=DEFCON+Game+Play&rv.4.length_seconds=104&record=1&rv.7.view_count=4069&rv.5.view_count=68576&length_seconds=68&enablejsapi=1&rec_title=Re%3A+Defcon+Games+trailer&video_id=t8eTpio1BnI&user_age=36&plid=AASGK-LRNIjSCd_a&rv.5.rating=4.15555555556&rv.0.author=lockergnome&rv.4.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dmef2qRua4Oo&rv.1.author=grimone11&rv.1.rating=4.16666666667&rv.4.title=DEFCON+Trailer&rv.5.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FzCBoB9ecXHI%2Fdefault.jpg&watermark=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Flogo-vfl106645.swf%2Chttp%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fhdlogo-vfl100714.swf&rv.0.title=DEFCON+Game+for+Windows%2C+Linux+and+OS+X&rv.7.rating=1.13333333333&rv.3.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmgbZstHF6VQ&rv.2.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3cwIk327cSk&rec_descr=Video+Cam+Direct+Upload&rv.7.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKZInKfQ7DyM&rv.2.view_count=8794&rv.4.view_count=6837&rv.1.view_count=14585&rv.5.title=DEFCON+Full+ICBM+nuclear+attack+to+USA&rv.6.rating=4.73033707865&sk=mJshhx8Cbhpf5LftPVOi4fo7_akyunIfR&rv.1.title=DEFCON+IV+game&rv.1.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2F7qHibuOutOM%2Fdefault.jpg&rec_categories=24&rv.3.length_seconds=131&rv.5.author=manonpiano\" allowscriptaccess=\"always\" allowfullscreen=\"true\" bgcolor=\"#000000\" \/><noembed>\n\t\n\t<div id=\"\" class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n\t\t<div class=\"yt-alert-icon master-sprite\"><\/div>\n\t\t<div id=\"\" class=\"yt-alert-content\">\n\t\t\t\t\t\tYou need Adobe Flash Player to watch this video. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Download it from Adobe.<\/a>\n\t\t<\/div>\n\t\t<div class=\"clear\"><\/div>\n\t<\/div>\n<\/noembed>";
+				document.write(swfHTML);
+		})();
+	</script>
+
+			</div>
+			<!-- begin videoextra section -->
+			<!-- end videoextra section -->
+		</div>
+	</div>
+	<!-- begin contentbottom section -->
+	<div id="watch-main-container">
+		<div id="watch-main">
+			<div id="watch-panel">
+				<div id="watch-info" class="yt-rounded">
+								<div id="watch-views" class="watch-expander yt-uix-expander yt-uix-expander-collapsed" data-expander-action="yt.www.watch.watch5.handleToggleStats">
+		<div class="watch-expander-head yt-uix-expander-head yt-rounded">
+			<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+			<span class="watch-expander-head-content"><strong class="watch-view-count">15,870</strong><br>views</span>
+
+
+		</div>
+		<div class="watch-expander-body yt-uix-expander-body">
+			<button class="yt-uix-expander-arrow master-sprite" style="visibility: hidden" onclick="return false;"></button>
+			<strong class="watch-view-count">15,870</strong><br>views
+		</div>
+	</div>
+
+		<div id="watch-description" class="watch-expander yt-uix-expander yt-uix-expander-animated yt-uix-expander-collapsed" data-expander-action="yt.www.watch.watch5.handleToggleDescription">
+		<div class="watch-expander-head yt-uix-expander-head yt-rounded">
+			<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+			<span class="watch-expander-head-content">
+					<a class="watch-description-username" href="/user/gckx86" onclick="yt.events.stopPropagation(event);"><strong>gckx86</strong></a>
+	<span class="watch-description-username-dash">&mdash;</span>
+	<span class="watch-video-date">November 09, 2007</span>
+	&mdash;
+
+				<span >It's Global Thermonuclear War, and nobody wins. DEFCON Game for Windows, Linux and OS X.its shareware version
+fo...</span>
+			</span>
+		</div>
+		<div class="watch-expander-body yt-uix-expander-body">
+			<div id="watch-description-body">
+					<a class="watch-description-username" href="/user/gckx86" onclick="yt.events.stopPropagation(event);"><strong>gckx86</strong></a>
+	<span class="watch-description-username-dash">&mdash;</span>
+	<span class="watch-video-date">November 09, 2007</span>
+	&mdash;
+
+				<span >It's Global Thermonuclear War, and nobody wins. DEFCON Game for Windows, Linux and OS X.its shareware version<br/>for more information go to<br/><a href="http://www.everybody-dies.com/" target="_blank" title="http://www.everybody-dies.com/" rel="nofollow" dir="ltr">http://www.everybody-dies.com/</a></span>
+			
+				<div id="watch-category">
+					<span>Category:</span>
+					<a href="/videos?c=24">Entertainment</a>
+				</div>
+
+				<div id="watch-tags">
+					<span>Tags:</span>
+					<div>
+							<a href="/results?search_query=games&amp;search=tag">games</a>&nbsp;
+							<a href="/results?search_query=video&amp;search=tag">video</a>&nbsp;
+							<a href="/results?search_query=game&amp;search=tag">game</a>&nbsp;
+							<a href="/results?search_query=trailer&amp;search=tag">trailer</a>&nbsp;
+							<a href="/results?search_query=web&amp;search=tag">web</a>&nbsp;
+							<a href="/results?search_query=series&amp;search=tag">series</a>&nbsp;
+					</div>
+				</div>
+
+
+				<div class="clearR"></div>
+			</div>
+		</div>
+	</div>
+
+	
+	<div id="watch-stats-container" class="hid">
+		<div id="watch-stats" class="yt-rounded">
+			<div id="watch-stats-loading">Loading...</div>
+		</div>
+	</div>
+
+
+
+
+
+
+	<div class="clearR"></div>
+
+				</div>
+				<div id="watch-actions">
+						<div id="watch-actions-left">
+		<button title="I like this" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-like" data-button-action="yt.www.watch.watch5.like"><img class="yt-uix-button-icon-watch-like" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Like</span></button>
+		&nbsp;
+		<button title="I dislike this" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-unlike" data-button-action="yt.www.watch.watch5.unlike"><img class="yt-uix-button-icon-watch-unlike" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+	</div>
+	<div id="watch-actions-right">
+		<button class=" yt-uix-button yt-uix-tooltip" type="button" id="watch-embed" onclick=";return false;" title="Get video embed code" data-button-action="yt.www.watch.watch5.embed"><span class="yt-uix-button-content">&lt;Embed&gt;</span></button>
+		<span class="flagging_ui">
+			&nbsp;
+			<button title="Flag as inappropriate" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-flag" data-button-action="yt.www.watch.watch5.flag"><img class="yt-uix-button-icon-watch-flag" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+		</span>
+	</div>
+	<div id="watch-actions-center">
+			
+		<button class=" yt-uix-button yt-uix-tooltip" type="button" id="watch-playlists-button" onclick=";return false;" title="Save to favorites or playlist" data-button-action="yt.www.watch.watch5.loadPlaylists"><span class="yt-uix-button-content">Save to</span> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu"><li><span class=" yt-uix-button-menu-item" onclick=";return false;" >Loading...</span></li></ul></button>
+		&nbsp;
+		<button title="Share this video" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-share" data-button-action="yt.www.watch.watch5.share"><img class="yt-uix-button-icon-watch-expand-share" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Share</span></button>
+	</div>
+	
+	<div id="watch-actions-share" class="hid">
+		<div class="watch-actions-share">
+			<input class="watch-actions-share-input" type="text" value="http://www.youtube.com/watch?v=t8eTpio1BnI" />
+			<br>
+			<button type="button" class="watch-share-button yt-uix-button" onclick="yt.window.popup('/share_inline?v=t8eTpio1BnI', {height:350, width:450, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_email" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Email</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('FACEBOOK', 't8eTpio1BnI', 'en_CA');yt.window.popup('http:\/\/www.facebook.com\/sharer.php?u=http%3A\/\/www.youtube.com\/watch%3Fv%3Dt8eTpio1BnI&amp;t=Defcon%20Games%20trailer', {height:440, width:620, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_facebook" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Facebook</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('TWITTER', 't8eTpio1BnI', 'en_CA');yt.window.popup('http:\/\/twitter.com\/home?status=Check%20this%20video%20out%20--%20Defcon%20Games%20trailer%20http%3A\/\/youtu.be\/t8eTpio1BnI', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_twitter" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Twitter</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('ORKUT', 't8eTpio1BnI', 'en_CA');yt.window.popup('http:\/\/www.orkut.com\/FavoriteVideos.aspx?u=http%3A\/\/www.youtube.com\/watch%3Fv%3Dt8eTpio1BnI', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_orkut" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">orkut</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('MYSPACE', 't8eTpio1BnI', 'en_CA');yt.window.popup('http:\/\/www.myspace.com\/Modules\/PostTo\/Pages\/?t=Defcon%20Games%20trailer&amp;c=%3Cobject%20width%3D%22425%22%20height%3D%22344%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A\/\/www.youtube.com\/v\/t8eTpio1BnI%26hl%3Den_US%26fs%3D1%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowFullScreen%22%20value%3D%22true%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowscriptaccess%22%20value%3D%22always%22%3E%3C\/param%3E%3Cembed%20src%3D%22http%3A\/\/www.youtube.com\/v\/t8eTpio1BnI%26hl%3Den_US%26fs%3D1%22%20type%3D%22application\/x-shockwave-flash%22%20width%3D%22425%22%20height%3D%22344%22%20allowscriptaccess%3D%22always%22%20allowfullscreen%3D%22true%22%3E%3C\/embed%3E%3C\/object%3E&amp;u=http%3A\/\/www.youtube.com\/watch%3Fv%3Dt8eTpio1BnI&amp;l=1', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_myspace" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">MySpace</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('LIVE SPACES', 't8eTpio1BnI', 'en_CA');yt.window.popup('http:\/\/spaces.live.com\/BlogIt.aspx?Title=YouTube - Defcon%20Games%20trailer&amp;SourceURL=http%3A\/\/www.youtube.com\/watch%3Fv%3Dt8eTpio1BnI&amp;description=%3Cobject%20width%3D%22425%22%20height%3D%22344%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A\/\/www.youtube.com\/v\/t8eTpio1BnI%26hl%3Den_US%26fs%3D1%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowFullScreen%22%20value%3D%22true%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowscriptaccess%22%20value%3D%22always%22%3E%3C\/param%3E%3Cembed%20src%3D%22http%3A\/\/www.youtube.com\/v\/t8eTpio1BnI%26hl%3Den_US%26fs%3D1%22%20type%3D%22application\/x-shockwave-flash%22%20width%3D%22425%22%20height%3D%22344%22%20allowscriptaccess%3D%22always%22%20allowfullscreen%3D%22true%22%3E%3C\/embed%3E%3C\/object%3E', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_livespaces" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Live Spaces</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('BLOGGER', 't8eTpio1BnI', 'en_CA');yt.window.popup('http:\/\/www.blogger.com\/blog-this.g?n=Defcon%20Games%20trailer&amp;source=youtube&amp;b=%3Cobject%20width%3D%22425%22%20height%3D%22344%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A\/\/www.youtube.com\/v\/t8eTpio1BnI%26hl%3Den_US%26fs%3D1%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowFullScreen%22%20value%3D%22true%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowscriptaccess%22%20value%3D%22always%22%3E%3C\/param%3E%3Cembed%20src%3D%22http%3A\/\/www.youtube.com\/v\/t8eTpio1BnI%26hl%3Den_US%26fs%3D1%22%20type%3D%22application\/x-shockwave-flash%22%20width%3D%22425%22%20height%3D%22344%22%20allowscriptaccess%3D%22always%22%20allowfullscreen%3D%22true%22%3E%3C\/embed%3E%3C\/object%3E&amp;eurl=http%3A\/\/i1.ytimg.com\/vi\/t8eTpio1BnI\/hqdefault.jpg', {height:468, width:768, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_blogger" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Blogger</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('BUZZ', 't8eTpio1BnI', 'en_CA');yt.window.popup('http:\/\/www.google.com\/buzz\/post?url=http%3A\/\/www.youtube.com\/watch%3Fv%3Dt8eTpio1BnI', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_buzz" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Buzz</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('STUMBLEUPON', 't8eTpio1BnI', 'en_CA');yt.window.popup('http:\/\/www.stumbleupon.com\/submit?url=http%3A\/\/www.youtube.com\/watch%3Fv%3Dt8eTpio1BnI&amp;title=Defcon%20Games%20trailer', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_stumbleupon" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">StumbleUpon</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('DIGG', 't8eTpio1BnI', 'en_CA');yt.window.popup('http:\/\/digg.com\/submit?phase=2&amp;url=http%3A\/\/www.youtube.com\/watch%3Fv%3Dt8eTpio1BnI&amp;title=Defcon%20Games%20trailer&amp;bodytext=It%27s%20Global%20Thermonuclear%20War%2C%20and%20nobody%20wins.%20DEFCON%20Game%20for%20Windows%2C%20Linux%20and%20OS%20X.its%20shareware%20version%0D%0Afor%20more%20information%20go%20to%0D%0Ahttp%3A\/\/www.everybody-dies.com\/&amp;topic=videos_people', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_digg" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Digg</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('REDDIT', 't8eTpio1BnI', 'en_CA');yt.window.popup('http:\/\/reddit.com\/submit?url=http%3A\/\/www.youtube.com\/watch%3Fv%3Dt8eTpio1BnI&amp;title=Defcon%20Games%20trailer', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_reddit" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">reddit</span></button>
+					<div id="autoshare-widget-F-wizard" class="autoshare-promo">
+				<img class="img-autoshare-logo" width="41" height="23" border="0" alt=""/>
+				<div>
+Want to share your favorites, ratings, or comments to <strong>Facebook</strong>, <strong>Twitter</strong>, and <strong>Google Reader</strong>? Connect your accounts! (<strong>You</strong> control when messages are posted.)</div>
+				<div class="autoshare-wizard-links">
+					<a href="/autoshare?feature=F" class="autoshare-wizard-opt-in-link">Connect Accounts</a>
+					<a href="#" class="autoshare-wizard-opt-out-link" onclick=yt.www.watch.autoshare.dismissAutosharePromo('F');return false>Not interested now</a>
+				</div>
+	</div>
+
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+
+				</div>
+				<div id="watch-actions-area-container" class="collapsed">
+					<div id="watch-actions-area" class="yt-rounded">
+Loading...
+					</div>
+				</div>
+				<div id="watch-actions-close" class="hid">
+					<div class="close"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="master-sprite close-button" onclick="yt.www.watch.watch5.hide();"/></div>
+				</div>
+				<div id="watch-discussion">
+								<form id="watch-comments-form" class="input-collapsed" onsubmit="return false;" method="post" action="/comment_servlet?add_comment=1&comment_type=V"
+					data-comment-type="V">
+				<input type="hidden" value="" name="form_id"/>
+				<input class="comment-parent-id" type="hidden" value="" name="reply_parent_id"/>
+				<input type="hidden" name="video_id" value="t8eTpio1BnI">
+				<input type="hidden" name="return_ajax" value="true"/>
+				<input type="hidden" name="session_token" value="2B2IMTb35Ui0tGTVwnz9xZKdy6p8MTI3MzQyNjM3NA=="/>
+				<textarea class="watch-comment" name="comment" onfocus="yt.www.comments.watch5.inputFocus(this)" onblur="yt.www.comments.watch5.inputBlur(this)" oninput="yt.www.comments.watch5.updateCount(this)">Respond to this video...</textarea>
+				<span class="watch-comments-post-count"><input type="textbox" class="watch-comments-post-count-textbox" value="500"> characters remaining</span>
+				<div class="watch-comments-post-area">
+					<span class="watch-comments-post-result"></span>
+					<a class="watch-comments-cancel" href="#" onclick="yt.www.comments.watch5.cancelPost(this); return false;">Cancel</a>
+					<button type="button" class="watch-comments-post yt-uix-button" onclick="yt.www.comments.watch5.post(this);;return false;" ><span class="yt-uix-button-content">Post</span></button>
+				</div>
+				<div class="clearR"></div>
+			</form>
+				<div id="watch-comments-attach-video"  class="hid">
+		<a href="/video_response_upload?v=t8eTpio1BnI" class="noul"><img id="watch-comments-attach-video-icon" class="master-sprite" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt="Attach a video"></a><a href="/video_response_upload?v=t8eTpio1BnI">Attach a video</a>
+	</div>
+
+
+
+		<ul id="watch-comments-core"
+			data-owner-viewing="False"
+
+			data-type="highlights">
+			
+							<li>
+				<div class="comment-highlight-section-header">
+Highest Rated Comments
+				</div>
+			</li>
+							<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6kD7kSWZwycDAR16tW8YOpwh_XCBINrLLg"
+			data-score="5"
+			data-author="nukewarfare2"
+			data-pending="0"
+				data-tag="R"
+			data-flagged="False"
+			data-removed="False"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/nukewarfare2" class="comment-author ">nukewarfare2</a>
+
+
+				<span class="content">
+					Actually, Iran doesn't have any confirmed nuclear weapons. The countries that do possess them are:﻿ the U.S.A., Russia, China, France, the U.K., India, Pakistan, Israel, and North Korea.
+				</span>
+
+					<span class="watch-comments-rating-positive">5 <img class="master-sprite watch-comments-rating-thumbs-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"/></span>
+				
+				<span class="time">1 year ago</span>
+
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6kj-BHq17lLlUqT0FGnMmE60YNcNjcwyko"
+			data-score="4"
+			data-author="xFake21"
+			data-pending="0"
+				data-tag="R"
+			data-flagged="False"
+			data-removed="False"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/xFake21" class="comment-author ">xFake21</a>
+
+
+				<span class="content">
+					what a﻿ stupid theory...
+				</span>
+
+					<span class="watch-comments-rating-positive">4 <img class="master-sprite watch-comments-rating-thumbs-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"/></span>
+				
+				<span class="time">1 year ago</span>
+
+		</div>
+	</li>
+ 
+
+			<li>
+				<div class="comment-highlight-section-header">
+Most Recent Comments
+					<a class="comment-highlight-see-all" href="/comment_servlet?all_comments&amp;v=t8eTpio1BnI">see all</a>
+				</div>
+			</li>
+							<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6mtd-RNqKl_D-VeblU-WP-vXzJpXk0_RPI"
+			data-score="-1"
+			data-author="sgtdanny69148"
+			data-pending="0"
+				data-tag="N"
+			data-flagged="False"
+			data-removed="False"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/sgtdanny69148" class="comment-author ">sgtdanny69148</a>
+
+
+				<span class="content">
+					Wtf? how the hell did the united states get overruned? the russians send a whole lot of balistic missles after the unuted states and while an invasion fleet is enroute for the west coast.
+				</span>
+
+				
+				<span class="time">1 month ago</span>
+
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6nXCvr17fkKV1Pq7WAgtPr_nZQ_4KcoHUs"
+			data-score="0"
+			data-author="verystrangegeorge"
+			data-pending="0"
+				data-tag="N"
+			data-flagged="False"
+			data-removed="False"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/verystrangegeorge" class="comment-author ">verystrangegeorge</a>
+
+
+				<span class="content">
+					You have to wipe out the enemy population by nuking them and defend your self from enemy nukes.﻿ <br/>it has a very slow pace and a great atmousphere.
+				</span>
+
+				
+				<span class="time">2 months ago</span>
+
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6m7oKsi1Su2-fTLW30slSnd0WR8od38PQQ"
+			data-score="0"
+			data-author="NintendoEXdragon9190"
+			data-pending="0"
+				data-tag="N"
+			data-flagged="False"
+			data-removed="False"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/NintendoEXdragon9190" class="comment-author ">NintendoEXdragon9190</a>
+
+
+				<span class="content">
+					yah i know now, its only a few﻿ countries that have nukes
+				</span>
+
+				
+				<span class="time">6 months ago</span>
+
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6mwsJWYUV7MYO5kgvb35Ug_-P5xw2eF6uw"
+			data-score="0"
+			data-author="technochook"
+			data-pending="0"
+				data-tag="N"
+			data-flagged="False"
+			data-removed="False"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/technochook" class="comment-author ">technochook</a>
+
+
+				<span class="content">
+					we dont in australia i dont﻿ think!
+				</span>
+
+				
+				<span class="time">6 months ago</span>
+
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6mRUqNLIE5HhKsMyUGfSmkEF3ViIvwpo_U"
+			data-score="0"
+			data-author="NintendoEXdragon9190"
+			data-pending="0"
+				data-tag="N"
+			data-flagged="False"
+			data-removed="True"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/NintendoEXdragon9190" class="comment-author ">NintendoEXdragon9190</a>
+
+				<em>Comment removed</em>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6mwsJWYUV7MYO5kgvb35Ug_-P5xw2eF6uw"
+			data-score="0"
+			data-author="technochook"
+			data-pending="0"
+				data-tag="N"
+			data-flagged="False"
+			data-removed="False"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/technochook" class="comment-author ">technochook</a>
+
+
+				<span class="content">
+					we dont in australia i dont think!
+				</span>
+
+				
+				<span class="time">6 months ago</span>
+
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6m7oKsi1Su2-fTLW30slSnd0WR8od38PQQ"
+			data-score="0"
+			data-author="NintendoEXdragon9190"
+			data-pending="0"
+				data-tag="N"
+			data-flagged="False"
+			data-removed="False"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/NintendoEXdragon9190" class="comment-author ">NintendoEXdragon9190</a>
+
+
+				<span class="content">
+					yah i know now, its only a few countries that have nukes
+				</span>
+
+				
+				<span class="time">6 months ago</span>
+
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6kqsc_OFbr6GjV5NYuR--w2Xvg3v7p6UV0"
+			data-score="0"
+			data-author="Galacticmaster"
+			data-pending="0"
+				data-tag="N"
+			data-flagged="False"
+			data-removed="False"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/Galacticmaster" class="comment-author ">Galacticmaster</a>
+
+
+				<span class="content">
+					HI im hainvg problems with defcon AI i know, but he keeps killing my ships, you got any ideas to overcome this?<br/>and as well whats the best strategy when going against the computer
+				</span>
+
+				
+				<span class="time">9 months ago</span>
+
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6nm8D9yjKp6c4vwUiLahZqFEcp9Nan96k4"
+			data-score="0"
+			data-author="Pimplifier"
+			data-pending="0"
+				data-tag="N"
+			data-flagged="False"
+			data-removed="False"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/Pimplifier" class="comment-author ">Pimplifier</a>
+
+
+				<span class="content">
+					wait, so what do you do in this game??
+				</span>
+
+				
+				<span class="time">9 months ago</span>
+
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="T3SFG9xRc6nXCvr17fkKV1Pq7WAgtPr_nZQ_4KcoHUs"
+			data-score="0"
+			data-author="verystrangegeorge"
+			data-pending="0"
+				data-tag="N"
+			data-flagged="False"
+			data-removed="False"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="">
+		<div class="wrapper">
+			<a href="/user/verystrangegeorge" class="comment-author ">verystrangegeorge</a>
+
+
+				<span class="content">
+					You have to wipe out the enemy population by nuking them and defend your self from enemy nukes. <br/>it has a very slow pace and a great atmousphere.
+				</span>
+
+				
+				<span class="time">2 months ago</span>
+
+		</div>
+	</li>
+ 
+
+		
+						<li class="watch-comments-pagination">
+						<div class="yt-uix-pager">
+
+
+			<button href="/comment_servlet?all_comments&amp;v=t8eTpio1BnI&amp;page=1" type="button" class="yt-uix-pager-selected yt-uix-button" onclick="return false;;window.location.href=this.getAttribute('href');return false;" data-page="1"><span class="yt-uix-button-content">1</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments&amp;v=t8eTpio1BnI&amp;page=2" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement (this);;window.location.href=this.getAttribute('href');return false;" data-page="2"><span class="yt-uix-button-content">2</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments&amp;v=t8eTpio1BnI&amp;page=3" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement (this);;window.location.href=this.getAttribute('href');return false;" data-page="3"><span class="yt-uix-button-content">3</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments&amp;v=t8eTpio1BnI&amp;page=4" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement (this);;window.location.href=this.getAttribute('href');return false;" data-page="4"><span class="yt-uix-button-content">4</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments&amp;v=t8eTpio1BnI&amp;page=5" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement (this);;window.location.href=this.getAttribute('href');return false;" data-page="5"><span class="yt-uix-button-content">5</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments&amp;v=t8eTpio1BnI&amp;page=6" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement (this);;window.location.href=this.getAttribute('href');return false;" data-page="6"><span class="yt-uix-button-content">6</span></button>&nbsp;
+
+					<a href="/comment_servlet?all_comments&v=t8eTpio1BnI&page=2" class="yt-uix-pager-link" data-page="2" onclick="return yt.www.comments.watch5.showPageFromElement (this);">Next</a>
+
+		</div>
+
+
+		</li>
+
+		</ul>
+		<div id="watch-comments-actions">
+			<button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.comments.watch5.reply"><img class="yt-uix-button-icon-watch-comment-reply" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Reply</span></button>
+			<button onclick="yt.www.comments.watch5.vote('1');return false;" title="Vote Up" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" id="watch-comment-vote-up" ><img class="yt-uix-button-icon-watch-comment-vote-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+			<button onclick="yt.www.comments.watch5.vote('-1');return false;" title="Vote Down" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" id="watch-comment-vote-down" ><img class="yt-uix-button-icon-watch-comment-vote-down" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+			<button type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" title="Flag for spam" data-button-action="yt.www.comments.watch5.flag"><img class="yt-uix-button-icon-watch-comment-flag" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+			<button onclick="yt.www.comments.watch5.remove('JR_2WhNRGxU', 'session_token=ttKeGYI-jKkrh5oiq4ne8dSTu2R8MA==');return false;" title="Remove" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" id="watch-comment-remove-link" ><img class="yt-uix-button-icon-watch-comment-remove" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+		</div>
+		<div id="watch-comments-loading" class="hid">Loading...</div>
+
+				</div>
+			</div>
+
+			<div class="yt-uix-expander yt-uix-expander-animated yt-uix-expander-collapsed watch-module yt-rounded watch-module-expandable hid"
+						id="watch-search-list"
+						data-expander-action="yt.www.watch.watch5.closeSearch">
+				<h3 class="watch-module-head yt-uix-expander-head yt-rounded-top">
+					<div class="close"><img class="master-sprite close-button" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"></div>
+					<span id="watch-search-count"></span>
+Results for:
+					<span id="watch-search-query"></span>
+				</h3>
+				<div class="yt-uix-expander-body watch-module-body yt-rounded-bottom"
+							onscroll="yt.www.thumbnailDelayLoad.loadImages()">
+					<div id="watch-search-list-body-collapsed">
+						<div class="watch-next-list-body-loading">Loading...</div>
+					</div>
+					<div id="watch-search-list-body">
+						
+					</div>
+				</div>
+			</div>
+
+			<div id="watch-sidebar" class="yt-rounded-top ">
+				
+
+	
+
+			<div class="watch-passive-list yt-uix-expander yt-uix-expander-animated yt-uix-expander-collapsed watch-module watch-module-expandable hid"
+				id="watch-passive-QL"
+				data-expander-action="yt.www.watch.watch5.togglePassiveList"
+				data-expander-ajax-link="/list_ajax?action_get_quicklist=1">
+		<h3 class="yt-uix-expander-head watch-module-head yt-rounded-top yt-rounded-bottom">
+			<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+Queue (<span id="watch-passive-QL-count">0</span>)
+		</h3>
+		<div class="yt-uix-expander-body watch-module-body yt-rounded-bottom">
+			<div id="watch-passive-QL-body" class="watch-module-body-inner" onscroll="yt.net.delayed.load('next-list');">
+				<div id="watch-passive-QL-body-loading" class="watch-passive-list-body-loading">Loading...</div>
+			</div>
+</div>
+</div>
+
+	
+
+	<div class="watch-module">
+		<div class="watch-module-body">
+			<ul id="watch-related">
+						<li class="video-list-item  watch-ppv-vid"><a class="video-list-item-link" href="/watch?v=nE1KTdAC7AU&amp;feature=fvw"><span class="video-thumb video-thumb-90 " id="video-thumb-nE1KTdAC7AU-377800"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i3.ytimg.com/vi/nE1KTdAC7AU/default.jpg" alt="DEFCON Game for Windows, Linux and OS X" title="DEFCON Game for Windows, Linux and OS X"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>4:43</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-nE1KTdAC7AU-377800', null, 'nE1KTdAC7AU', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="DEFCON Game for Windows, Linux and OS X">DEFCON Game for Windows, Linux and OS X</span><span class="stat">22,549 views</span><span class="stat alt">Featured Video</span><span class="stat">lockergnome</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=7qHibuOutOM&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-7qHibuOutOM-4649359"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i4.ytimg.com/vi/7qHibuOutOM/default.jpg" alt="DEFCON IV game" title="DEFCON IV game"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>1:01</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-7qHibuOutOM-4649359', null, '7qHibuOutOM', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="DEFCON IV game">DEFCON IV game</span><span class="stat">14,585 views</span><span class="stat">grimone11</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=3cwIk327cSk&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-3cwIk327cSk-1093529"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i4.ytimg.com/vi/3cwIk327cSk/default.jpg" alt="Defcon Trailer" title="Defcon Trailer"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>0:59</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-3cwIk327cSk-1093529', null, '3cwIk327cSk', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="Defcon Trailer">Defcon Trailer</span><span class="stat">8,794 views</span><span class="stat">Th3Mobster</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=mgbZstHF6VQ&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-mgbZstHF6VQ-4165720"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i2.ytimg.com/vi/mgbZstHF6VQ/default.jpg" alt="Defcon - Target London" title="Defcon - Target London"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>2:11</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-mgbZstHF6VQ-4165720', null, 'mgbZstHF6VQ', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="Defcon - Target London">Defcon - Target London</span><span class="stat">28,505 views</span><span class="stat">blakejr</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=mef2qRua4Oo&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-mef2qRua4Oo-4367130"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i2.ytimg.com/vi/mef2qRua4Oo/default.jpg" alt="DEFCON Trailer" title="DEFCON Trailer"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>1:44</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-mef2qRua4Oo-4367130', null, 'mef2qRua4Oo', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="DEFCON Trailer">DEFCON Trailer</span><span class="stat">6,837 views</span><span class="stat">grimone11</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=zCBoB9ecXHI&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-zCBoB9ecXHI-3206570"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i3.ytimg.com/vi/zCBoB9ecXHI/default.jpg" alt="DEFCON Full ICBM nuclear attack to USA" title="DEFCON Full ICBM nuclear attack to USA"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>3:39</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-zCBoB9ecXHI-3206570', null, 'zCBoB9ecXHI', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="DEFCON Full ICBM nuclear attack to USA">DEFCON Full ICBM nuclear attack to USA</span><span class="stat">68,576 views</span><span class="stat">manonpiano</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=sYgXdyVs05c&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-sYgXdyVs05c-9095837"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i4.ytimg.com/vi/sYgXdyVs05c/default.jpg" alt="DEFCON Game Play" title="DEFCON Game Play"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>9:20</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-sYgXdyVs05c-9095837', null, 'sYgXdyVs05c', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="DEFCON Game Play">DEFCON Game Play</span><span class="stat">39,599 views</span><span class="stat">techman224</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=KZInKfQ7DyM&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-KZInKfQ7DyM-8087649"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i4.ytimg.com/vi/KZInKfQ7DyM/default.jpg" alt="Defcon Game Cheats Part 1" title="Defcon Game Cheats Part 1"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>0:33</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-KZInKfQ7DyM-8087649', null, 'KZInKfQ7DyM', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="Defcon Game Cheats Part 1">Defcon Game Cheats Part 1</span><span class="stat">4,069 views</span><span class="stat">ASSDINGER</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=iTmk-nEX3w0&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-iTmk-nEX3w0-1793104"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i2.ytimg.com/vi/iTmk-nEX3w0/default.jpg" alt="DEFCON Christmas mod" title="DEFCON Christmas mod"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>0:59</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-iTmk-nEX3w0-1793104', null, 'iTmk-nEX3w0', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="DEFCON Christmas mod">DEFCON Christmas mod</span><span class="stat">47,098 views</span><span class="stat">hellcatv</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=j3mUh_qW9c0&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-j3mUh_qW9c0-4779564"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i3.ytimg.com/vi/j3mUh_qW9c0/default.jpg" alt="DEFCON Full SLBM nuke attack to east coast of USA" title="DEFCON Full SLBM nuke attack to east coast of USA"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>1:04</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-j3mUh_qW9c0-4779564', null, 'j3mUh_qW9c0', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="DEFCON Full SLBM nuke attack to east coast of USA">DEFCON Full SLBM nuke attack to east coast of USA</span><span class="stat">14,109 views</span><span class="stat">manonpiano</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=i-KSTUExyqA&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-i-KSTUExyqA-1734745"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i2.ytimg.com/vi/i-KSTUExyqA/default.jpg" alt="DEFCON War games" title="DEFCON War games"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>1:58</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-i-KSTUExyqA-1734745', null, 'i-KSTUExyqA', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="DEFCON War games">DEFCON War games</span><span class="stat">16,068 views</span><span class="stat">masterraptor911</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=E67OxSSHN7w&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-E67OxSSHN7w-2420872"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i2.ytimg.com/vi/E67OxSSHN7w/default.jpg" alt="Defcon - Everybody Dies - Linux Client Demo" title="Defcon - Everybody Dies - Linux Client Demo"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>5:01</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-E67OxSSHN7w-2420872', null, 'E67OxSSHN7w', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="Defcon - Everybody Dies - Linux Client Demo">Defcon - Everybody Dies - Linux Client Demo</span><span class="stat">2,875 views</span><span class="stat">estaticd</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=jlPEBROvR9w&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-jlPEBROvR9w-2216312"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i3.ytimg.com/vi/jlPEBROvR9w/default.jpg" alt="First Strike (Part 1)" title="First Strike (Part 1)"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>10:00</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-jlPEBROvR9w-2216312', null, 'jlPEBROvR9w', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="First Strike (Part 1)">First Strike (Part 1)</span><span class="stat">221,295 views</span><span class="stat">filmsouth</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=zUW9NB_3hfc&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-zUW9NB_3hfc-7463390"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i3.ytimg.com/vi/zUW9NB_3hfc/default.jpg" alt="Defcon - Competition Trailer" title="Defcon - Competition Trailer"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>2:25</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-zUW9NB_3hfc-7463390', null, 'zUW9NB_3hfc', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="Defcon - Competition Trailer">Defcon - Competition Trailer</span><span class="stat">10,689 views</span><span class="stat">kikinchaz</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=1KwUQXtL3os&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-1KwUQXtL3os-6702259"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i2.ytimg.com/vi/1KwUQXtL3os/default.jpg" alt="Hanuman: Boy Warrior (PS2) Trailer" title="Hanuman: Boy Warrior (PS2) Trailer"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>2:07</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-1KwUQXtL3os-6702259', null, '1KwUQXtL3os', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="Hanuman: Boy Warrior (PS2) Trailer">Hanuman: Boy Warrior (PS2) Trailer</span><span class="stat">22,748 views</span><span class="stat">GamingIndians</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=Kt5tXljEzqA&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-Kt5tXljEzqA-9505516"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i4.ytimg.com/vi/Kt5tXljEzqA/default.jpg" alt="Defcon Trailer" title="Defcon Trailer"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>0:59</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-Kt5tXljEzqA-9505516', null, 'Kt5tXljEzqA', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="Defcon Trailer">Defcon Trailer</span><span class="stat">8,055 views</span><span class="stat">fatherdagon69</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=Z8F3xsL5J_c&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-Z8F3xsL5J_c-2939137"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i3.ytimg.com/vi/Z8F3xsL5J_c/default.jpg" alt="Defcon game nuking Russia" title="Defcon game nuking Russia"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>1:32</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-Z8F3xsL5J_c-2939137', null, 'Z8F3xsL5J_c', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="Defcon game nuking Russia">Defcon game nuking Russia</span><span class="stat">3,945 views</span><span class="stat">Ariethman</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=BuLILwDRV1M&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-BuLILwDRV1M-8780192"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i3.ytimg.com/vi/BuLILwDRV1M/default.jpg" alt="Defcon Trailer" title="Defcon Trailer"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>1:02</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-BuLILwDRV1M-8780192', null, 'BuLILwDRV1M', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="Defcon Trailer">Defcon Trailer</span><span class="stat">8,095 views</span><span class="stat">yxxxx</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=1r6JPgxSIps&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-1r6JPgxSIps-4629762"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i2.ytimg.com/vi/1r6JPgxSIps/default.jpg" alt="Prey Trailer" title="Prey Trailer"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>3:44</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-1r6JPgxSIps-4629762', null, '1r6JPgxSIps', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="Prey Trailer">Prey Trailer</span><span class="stat">8,663 views</span><span class="stat">SBurning</span></a></li>
+
+
+						<li class="video-list-item "><a class="video-list-item-link" href="/watch?v=oDu3RGcA5uk&amp;feature=related"><span class="video-thumb video-thumb-90 " id="video-thumb-oDu3RGcA5uk-9512269"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="vimg90" thumb="http://i4.ytimg.com/vi/oDu3RGcA5uk/default.jpg" alt="DEFCON16 Hackable Badge" title="DEFCON16 Hackable Badge"    onclick=";yt.www.watch.watch5.IEshenanigans(event, this)"><span class="video-time"><span>2:40</span></span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-oDu3RGcA5uk-9512269', null, 'oDu3RGcA5uk', '', '');return false;" >Add to queue</span></li></ul></button></span><span class="video-in-quicklist">Added to <br/> queue</span></span><span  class="title" title="DEFCON16 Hackable Badge">DEFCON16 Hackable Badge</span><span class="stat">2,885 views</span><span class="stat">liminju</span></a></li>
+
+
+			</ul>
+		</div>
+	</div>
+
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+		<form method="post" action="/watch_ajax" name="likeForm" class="hid">
+		<input type="hidden" name="session_token" value="L1za61Ar1YLwLkX01plNVFbi3bp8MA=="/>
+		<input type="hidden" name="action_like_video" value="1" />
+		<input type="hidden" name="video_id" value="t8eTpio1BnI" />
+	</form>
+	<form method="post" action="/watch_ajax" name="unlikeForm" class="hid">
+		<input type="hidden" name="session_token" value="L1za61Ar1YLwLkX01plNVFbi3bp8MA=="/>
+		<input type="hidden" name="action_dislike_video" value="1" />
+		<input type="hidden" name="video_id" value="t8eTpio1BnI" />
+	</form>
+	<div id="watch-add-faves" style="display: none;">
+		<img class="watch-check-grn-circle" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif">
+		<span class="watch-action-response">
+This video has been <strong>added</strong> to your <a href="/my_favorites">Favorites</a>.
+		</span>
+	</div>
+	<div id="watch-remove-faves" style="display: none;">
+		<span class="watch-action-response hid">
+This video has been <strong>removed</strong> from your <a href="/my_favorites">Favorites</a>.
+		</span>
+		<span class="watch-action-response">
+You dislike this video. Thanks for the feedback!
+		</span>
+	</div>
+
+	<div id="baseDiv" style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;"></div>
+	<!-- end contentbottom section -->
+
+	</div>
+	<!-- begin pagebottom section -->
+	<div id="footer-container">
+			<div id="footer">
+		<ul class="footer-links">
+			<li><a href="http://www.google.com/support/youtube/bin/static.py?page=start.cs&hl=en_US">Help</a></li>
+			<li><a href="/t/about">About</a></li>
+			<li><a href="http://www.google.com/support/youtube/bin/request.py?contact_type=abuse&hl=en_US">Safety</a></li>
+			<li><a href="/t/privacy">Privacy</a></li>
+			<li><a href="/t/terms">Terms</a></li>
+			<li><a href="/t/dmca_policy">Copyright</a></li>
+				<li><a href="/t/uploaders_partners">Uploaders &amp; Partners</a></li>
+				<li><a href="http://code.google.com/apis/youtube/overview.html">Developers</a></li>
+			<li><a href="/t/advertising" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Advertising');">Advertising</a></li>
+		</ul>
+			<ul class="pickers">
+			<li>Language:
+	<a href="#" onclick="yt.www.masthead.loadPicker('language-picker'); return false;">English</a>
+</li>
+			<li>Location:
+	<a href="#" onclick="yt.www.masthead.loadPicker('region-picker'); return false;">Canada</a>
+</li>
+			<li>Safety mode:
+	<a href="#" onclick="yt.www.masthead.loadPicker('safetymode-picker'); return false;">
+
+Off
+
+	</a>
+</li>
+	</ul>
+		<div id="picker-container"></div>
+	<div id="picker-loading" style="display: none">Loading...</div>
+
+
+	</div>
+
+	</div>
+	
+	<!-- end pagebottom section -->
+
+	</div>
+					<script id="www-core-js" src="http://s.ytimg.com/yt/jsbin/www-core-vfl163903.js"></script>
+
+
+	<!-- begin postpage section -->
+	<script>
+		if (window['gYouTubePlayerReady']) {
+			onYouTubePlayerReady();
+			yt.registerGlobal('gYouTubePlayerReady');
+		}
+		
+		yt.setConfig({
+			'XSRF_TOKEN': 'EKoHDeXxka2I9d0hjnWN7f89BvR8MTI3MzUwOTM1Mw==',
+			'XSRF_FIELD_NAME': 'session_token'
+		});
+		yt.pubsub.subscribe('init', yt.www.xsrf.populateSessionToken);
+
+
+		yt.setConfig('XSRF_QL_PAIR', 'session_token=9GC0qXaDFqo6N9AY4p_XE45Zryh8MA==');
+
+
+
+		yt.setConfig('LOGGED_IN', true);
+	</script>
+
+				<script  src="http://s.ytimg.com/yt/js/heatmap-vfl131498.js"></script>
+
+	<script>
+			yt.setConfig('SERVLET_NAME', 'watch');
+		
+
+			yt.pubsub.subscribe('init', function() {
+
+		yt.www.thumbnailDelayLoad.setFudgeFactor(0);
+	
+	if (document.documentElement["getBoundingClientRect"]) {
+		yt.events.listen(window, 'scroll', yt.www.thumbnailDelayLoad.loadImages);
+		yt.events.listen(window, 'resize', yt.www.thumbnailDelayLoad.loadImages);
+	}
+	yt.www.thumbnailDelayLoad.loadImages();
+
+		yt.www.thumbnailDelayLoad.setLoadAllAtOnce(true);
+
+	});
+
+		
+		
+			yt.setTimeout(function() {
+				window.yt.www.suggest.install(document.searchForm,
+						document.searchForm.search_query,
+						'en','close',
+						'Suggestions',
+						'Web search',
+						-1,
+						null);
+					}, 100);
+
+	</script>
+	
+	<script id="legacy-user-datastore" style="behavior:url('#default#userdata')"></script>
+	
+		
+
+		
+	
+	
+
+	
+		<script>
+		(function() {
+			var swfConfig = {"url": "http://s.ytimg.com/yt/swf/watch_as3-vfl163960.swf", "min_version": "8.0.0", "args": {"rv.7.length_seconds": 33, "rv.2.thumbnailUrl": "http://i4.ytimg.com/vi/3cwIk327cSk/default.jpg", "rv.0.url": "http://www.youtube.com/watch?v=nE1KTdAC7AU", "rv.0.view_count": 22549, "enablecsi": "1", "rv.2.title": "Defcon Trailer", "rv.6.author": "techman224", "rv.3.view_count": 28505, "is_doubleclick_tracked": "1", "rv.4.thumbnailUrl": "http://i2.ytimg.com/vi/mef2qRua4Oo/default.jpg", "fmt_url_map": "5|http://v1.lscache4.c.youtube.com/videoplayback?ip=0.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor%2Coc%3AU0dWSFRPVF9FSkNNNl9MSVhB&fexp=903104%2C900504&algorithm=throttle-factor&itag=5&ipbits=0&burst=40&sver=3&expire=1273446000&key=yt1&signature=9F6478CC263C7D43E9065314D78743B570FE9DAE.D871C0A3E334E5FA80C5D7ECD7FFF93E2CE8F7DA&factor=1.25&id=b7c793a62a350672", "csi_page_type": "watch", "keywords": "games,video,game,trailer,web,series", "rec_key": "141DD5F44D644D09-DE1B93B150CBCDC8", "rv.1.url": "http://www.youtube.com/watch?v=7qHibuOutOM", "rv.6.thumbnailUrl": "http://i4.ytimg.com/vi/sYgXdyVs05c/default.jpg", "rv.3.rating": "4.17543859649", "fmt_list": "5/0/7/0/0", "rv.7.id": "KZInKfQ7DyM", "rv.0.rating": "4.44", "rv.4.rating": "4.5", "rv.3.title": "Defcon - Target London", "rv.5.id": "zCBoB9ecXHI", "rv.0.featured": 1, "rv.0.id": "nE1KTdAC7AU", "video_recorder_module": "http://s.ytimg.com/yt/swf/video_recorder_module-vfl163103.swf", "rv.5.url": "http://www.youtube.com/watch?v=zCBoB9ecXHI", "rv.6.length_seconds": 560, "sourceid": "ys", "timestamp": 1273422953, "rec_server": "sjl-webcam3.sjl.youtube.com:80", "rv.3.thumbnailUrl": "http://i2.ytimg.com/vi/mgbZstHF6VQ/default.jpg", "rv.2.author": "Th3Mobster", "rv.6.url": "http://www.youtube.com/watch?v=sYgXdyVs05c", "fmt_map": "5/0/7/0/0", "hl": "en_US", "rec_v": "t8eTpio1BnI", "rv.0.thumbnailUrl": "http://i3.ytimg.com/vi/nE1KTdAC7AU/default.jpg", "rv.5.length_seconds": 219, "rec_keywords": " games video game trailer web series", "referrer": "http://www.youtube.com/results?search_query=defcon&aq=f", "rv.7.author": "ASSDINGER", "rv.1.length_seconds": 61, "rv.3.id": "mgbZstHF6VQ", "rv.2.id": "3cwIk327cSk", "rv.2.length_seconds": 59, "t": "vjVQa1PpcFMxov5P01wcuKYlkLGG91qr-NM0goZPy1A=", "rv.6.id": "sYgXdyVs05c", "vq": "auto", "rv.6.view_count": 39599, "rv.3.author": "blakejr", "rv.4.id": "mef2qRua4Oo", "fexp": "903104,900504", "rv.4.author": "grimone11", "rv.7.thumbnailUrl": "http://i4.ytimg.com/vi/KZInKfQ7DyM/default.jpg", "allow_embed": 1, "fmt_stream_map": "5|http://v1.lscache4.c.youtube.com/videoplayback?ip=0.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor%2Coc%3AU0dWSFRPVF9FSkNNNl9MSVhB&fexp=903104%2C900504&algorithm=throttle-factor&itag=5&ipbits=0&burst=40&sver=3&expire=1273446000&key=yt1&signature=9F6478CC263C7D43E9065314D78743B570FE9DAE.D871C0A3E334E5FA80C5D7ECD7FFF93E2CE8F7DA&factor=1.25&id=b7c793a62a350672", "rv.2.rating": "4.4347826087", "rv.7.title": "Defcon Game Cheats Part 1", "rv.0.length_seconds": 283, "cr": "CA", "user_gender": "m", "rv.1.id": "7qHibuOutOM", "q": "defcon", "rv.6.title": "DEFCON Game Play", "rv.4.length_seconds": 104, "record": "1", "rv.7.view_count": 4069, "rv.5.view_count": 68576, "length_seconds": 68, "enablejsapi": 1, "rec_title": "Re: Defcon Games trailer", "video_id": "t8eTpio1BnI", "user_age": 36, "plid": "AASGK-LRNIjSCd_a", "rv.5.rating": "4.15555555556", "rv.0.author": "lockergnome", "rv.4.url": "http://www.youtube.com/watch?v=mef2qRua4Oo", "rv.1.author": "grimone11", "rv.1.rating": "4.16666666667", "rv.4.title": "DEFCON Trailer", "rv.5.thumbnailUrl": "http://i3.ytimg.com/vi/zCBoB9ecXHI/default.jpg", "watermark": "http://s.ytimg.com/yt/swf/logo-vfl106645.swf,http://s.ytimg.com/yt/swf/hdlogo-vfl100714.swf", "rv.0.title": "DEFCON Game for Windows, Linux and OS X", "rv.7.rating": "1.13333333333", "rv.3.url": "http://www.youtube.com/watch?v=mgbZstHF6VQ", "rv.2.url": "http://www.youtube.com/watch?v=3cwIk327cSk", "rec_descr": "Video Cam Direct Upload", "rv.7.url": "http://www.youtube.com/watch?v=KZInKfQ7DyM", "rv.2.view_count": 8794, "rv.4.view_count": 6837, "rv.1.view_count": 14585, "rv.5.title": "DEFCON Full ICBM nuclear attack to USA", "rv.6.rating": "4.73033707865", "sk": "mJshhx8Cbhpf5LftPVOi4fo7_akyunIfR", "rv.1.title": "DEFCON IV game", "rv.1.thumbnailUrl": "http://i4.ytimg.com/vi/7qHibuOutOM/default.jpg", "rec_categories": "24", "rv.3.length_seconds": 131, "rv.5.author": "manonpiano"}, "url_v9as2": "http://s.ytimg.com/yt/swf/watch-vfl163103.swf", "params": {"allowscriptaccess": "always", "allowfullscreen": "true", "bgcolor": "#000000"}, "attrs": {"width": "640", "id": "movie_player", "height": "385"}, "url_v8": "http://s.ytimg.com/yt/swf/watch_v8-vfl163103.swf"};
+			var forceUpdate = false;
+			yt.setConfig('SWF_CONFIG', swfConfig);
+			yt.setMsg('FLASH_UPGRADE', '\n\t\n\t<div id=\"\" class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n\t\t<div class=\"yt-alert-icon master-sprite\"><\/div>\n\t\t<div id=\"\" class=\"yt-alert-content\">\n\t\t\t\t\t\tYou need to upgrade your Adobe Flash Player to watch this video. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Download it from Adobe.<\/a>\n\t\t<\/div>\n\t\t<div class=\"clear\"><\/div>\n\t<\/div>\n');
+			yt.flash.update(swfConfig, forceUpdate);
+		})();
+	</script>
+
+
+	<script>
+		document.title = 'YouTube - Defcon Games trailer';
+
+		yt.setConfig({
+			'VIDEO_ID': 't8eTpio1BnI',
+			'VIDEO_USERNAME': 'gckx86',
+			'VIDEO_LANGUAGE': 'EN',
+			'BLOCK_USER_XSRF': 'session_token=JEkHKueWPvsLhanT8yEpy9Ardw18MA==',
+			'SUBSCRIBE_AXC': '9sCH675JY_XihMUvbkjNT8njBNx8MA%3D%3D',
+
+			'IS_WIDESCREEN': false,
+			'IS_HD_AVAILABLE': false,
+			'PREFER_LOW_QUALITY': false,
+			'WIDE_PLAYER_STYLES': ["watch-wide-mode"],
+			'EMBED_URL': 'http:\/\/www.youtube.com\/v\/t8eTpio1BnI&hl=en_US&fs=1',
+			'ALLOW_EMBED': true,
+			'ALLOW_RATINGS': true,
+			'AJAX_MODE': false,
+
+			'HAS_ACTIVE_QUICKLIST': false,
+
+			'LIST_PLAY_NEXT_URL': "",
+			'LIST_PLAY_NEXT_URL_WITH_SHUFFLE': "",
+			'LIST_AUTO_PLAY_ON': false,
+			'LIST_AUTO_PLAY_VALUE': 1,
+			'SHOW_NEXT_BUTTON': false,
+
+			'SHOW_SUBSCRIBE_UPSELL': true,
+
+			'SHUFFLE_VALUE': null,
+			'SHUFFLE_ENABLED': false,
+
+			'WATCH5': true,
+			
+			'STAGED_PLAYER_CONTROLS_URI': "http://s.ytimg.com/yt/img/watch/pic_disabled_controls_640x25-vfl148884.png",
+			'STAGED_WIDE_PLAYER_CONTROLS_URI': "http://s.ytimg.com/yt/img/watch/pic_disabled_controls_854x25-vfl148884.png",
+			'GUIDED_HELP_FLOW': 172459,
+			'VIDEO_HQ_THUMB': 'http://i1.ytimg.com/vi/t8eTpio1BnI/hqdefault.jpg',
+			'GUIDED_HELP_LOCALE': 'en_US'
+			
+
+		});
+
+		yt.setMsg({
+			'LOADING': 'Loading...',
+			'AUTOPLAY_ON': 'Autoplay (on)',
+			'AUTOPLAY_OFF': 'Autoplay (off)',
+			'SHUFFLE_ON': 'Shuffle (on)',
+			'SHUFFLE_OFF': 'Shuffle (off)',
+			'SUBSCRIBE_UPSELL_MESSAGE': "If you like gckx86's videos, subscribe!\n",
+			'QUEUE_EMPTY': 'Add a video to your watch queue by selecting from the menu in the video\'s thumbnail.',  			'QUEUE_CLEAR': 'Are you sure you wish to continue?',
+			'ADD_TO_WATCH_QUEUE': 'Add to queue'
+		});
+
+		
+
+yt.setMsg({
+	'UNBLOCK_USER': "Are you sure you want to unblock this user?",
+	'BLOCK_USER': "Are you sure you want to block this user?"
+});
+yt.setConfig('BLOCK_USER_XSRF', 'session_token=JEkHKueWPvsLhanT8yEpy9Ardw18MA==');
+
+
+
+			yt.setConfig({
+		'COMMENTS_THRESHHOLD': -5,
+		'COMMENTS_FILTER': 0,
+		'COMMENTS_PAGE_SIZE': 10,
+		'COMMENTS_COUNT': 53
+	});
+	yt.setMsg({
+		'COMMENT_OK': 'OK',
+		'COMMENT_BLOCKED': 'You have been blocked by the owner of this video.',
+		'COMMENT_CAPTCHAFAIL': 'The response to the letters on the image was not correct, please try again.',
+		'COMMENT_PENDING': 'Comment Pending Approval!',
+		'COMMENT_ERROR': 'Error, try again'
+	});
+
+
+
+	
+		yt.pubsub.subscribe('init', yt.www.watch.player.enableVideoQualityDisplay);
+
+		yt.pubsub.subscribe('init', function() {
+			yt.www.watch.player.handleHashArgumentsOnWatchLoad();
+		});
+		
+
+
+		yt.pubsub.subscribe('init', function() {
+			if (!_gel('masthead-search-term').value) {
+				_gel('masthead-search-term').value = '';
+			}
+		});
+
+
+		
+	</script>
+
+
+	<a name="pageBottom"></a>
+	<!-- end postpage section -->
+	<!--[if IE]></div><![endif]-->
+</body>
+
+</html>

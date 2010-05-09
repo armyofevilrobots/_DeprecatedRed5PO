@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3462/flash/trunk/admin
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3293/flash/trunk/admin/.project
+END
+.flexProperties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3293/flash/trunk/admin/.flexProperties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3238/flash/trunk/admin/build.properties
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3293/flash/trunk/admin/Readme.txt
+END
+.actionScriptProperties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3293/flash/trunk/admin/.actionScriptProperties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3092/flash/trunk/admin/build.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3501/flash/trunk/selftest/test/src/org/red5/server/io
+END
+EchoArrayTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3479/flash/trunk/selftest/test/src/org/red5/server/io/EchoArrayTest.as
+END
+ExternalizableClass.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3501/flash/trunk/selftest/test/src/org/red5/server/io/ExternalizableClass.as
+END
+EchoXMLTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3490/flash/trunk/selftest/test/src/org/red5/server/io/EchoXMLTest.as
+END
+EchoExternalizableObjectTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3481/flash/trunk/selftest/test/src/org/red5/server/io/EchoExternalizableObjectTest.as
+END
+CustomObject.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3480/flash/trunk/selftest/test/src/org/red5/server/io/CustomObject.as
+END
+EchoStringTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3479/flash/trunk/selftest/test/src/org/red5/server/io/EchoStringTest.as
+END
+EchoObjectTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3480/flash/trunk/selftest/test/src/org/red5/server/io/EchoObjectTest.as
+END
+AllTests.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3481/flash/trunk/selftest/test/src/org/red5/server/io/AllTests.as
+END

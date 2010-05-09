@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/livestream/videoconference
+END
+VideoConference.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/livestream/videoconference/VideoConference.as
+END
+Chat.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/livestream/videoconference/Chat.as
+END
+Connection.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/livestream/videoconference/Connection.as
+END
+VideoPool.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/livestream/videoconference/VideoPool.as
+END
+Subscriber.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/livestream/videoconference/Subscriber.as
+END
+ConnectionLight.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/livestream/videoconference/ConnectionLight.as
+END
+GlobalObject.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/livestream/videoconference/GlobalObject.as
+END
+Broadcaster.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/livestream/videoconference/Broadcaster.as
+END
+TextFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/livestream/videoconference/TextFilter.as
+END
+Connector.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3462/flash/trunk/classes/org/red5/samples/livestream/videoconference/Connector.as
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3914/flash/trunk/classes/org/red5/samples/echo/view
+END
+CredentialsView.mxml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3569/flash/trunk/classes/org/red5/samples/echo/view/CredentialsView.mxml
+END
+Main.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3569/flash/trunk/classes/org/red5/samples/echo/view/Main.as
+END
+MainView.mxml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3914/flash/trunk/classes/org/red5/samples/echo/view/MainView.mxml
+END
+TestSelectionView.mxml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3569/flash/trunk/classes/org/red5/samples/echo/view/TestSelectionView.mxml
+END
+ServiceConfigView.mxml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3569/flash/trunk/classes/org/red5/samples/echo/view/ServiceConfigView.mxml
+END

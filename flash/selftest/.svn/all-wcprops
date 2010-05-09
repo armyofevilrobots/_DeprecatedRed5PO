@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3995/flash/trunk/selftest
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3182/flash/trunk/selftest/LICENSE.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3995/flash/trunk/selftest/.project
+END
+.flexProperties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3296/flash/trunk/selftest/.flexProperties
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3229/flash/trunk/selftest/README.txt
+END
+.actionScriptProperties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3296/flash/trunk/selftest/.actionScriptProperties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3255/flash/trunk/selftest/build.xml
+END
