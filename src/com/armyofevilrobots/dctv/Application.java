@@ -96,9 +96,12 @@ public class Application extends MultiThreadedApplicationAdapter {
 	/** {@inheritDoc} */
     @Override
 	public boolean appConnect(IConnection conn, Object[] params) {
+        conn.setAttribute("dctv_broadcast_auth", false);
 		log.warn("**DCTV*** appConnect");
 		// Trigger calling of "onBWDone", required for some FLV players
         log.debug("Client is %s",conn.getRemoteAddress());
+        log.warn("Querystring is {}", conn.getConnectParams().get("queryString"));
+
 	
         log.warn("The total # of params is {}", params.length);
 		for (int i=0;i<params.length;i++){
@@ -109,13 +112,9 @@ public class Application extends MultiThreadedApplicationAdapter {
             }
         }
 
-        if (!verifyAuthDCTV(conn, params)){
-            log.warn("This client is not authorized to broadcast.");
-            //rejectClient();
-            conn.setAttribute("dctv_broadcast_auth", false);
-        }else{
+        if (verifyAuthDCTV(conn, params)){
+            log.warn("This client is authorized to broadcast.");
             conn.setAttribute("dctv_broadcast_auth", true);
-            //We terminate the previous serverStream too...
         }
 
         //Now we try with the URL added name instead...
