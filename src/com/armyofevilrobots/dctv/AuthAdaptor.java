@@ -44,23 +44,6 @@ public class AuthAdaptor {
             return false;
         }
         return true;
-        /*
-            rs.next();
-            log.warn("Result: {}",pout);
-            if(pout==null){
-                return false;
-            }
-            log.warn("_conn is ok.");
-            return true;
-        }catch(SQLException e){
-            //On failure, regenerate.
-            log.warn("_conn failed: {}",e);
-            return false;
-        }catch(Exception e){
-            log.error("Unexpected exception {}",e);
-            return false;
-
-        }*/
     }
 
     private Connection conn(){
@@ -173,6 +156,9 @@ public class AuthAdaptor {
             ResultSet rs = pstmt.executeQuery();
             if(rs.next()){
                 tid = rs.getInt(1);
+                log.warn("Got token id of {}",tid);
+            }else{
+                return false;
             }
         }catch(SQLException e){
             log.error("Auth failed due to {}", e);
@@ -186,6 +172,7 @@ public class AuthAdaptor {
             log.error("Auth failed due to {}", e);
             return false;
         }
+        log.warn("Returning a true auth for token {}, tid {}",token,tid);
 
         return true;
     }
