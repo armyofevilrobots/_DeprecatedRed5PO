@@ -31,7 +31,7 @@ public class Application extends MultiThreadedApplicationAdapter {
 		return true;
 	}
 
-    public boolean verifyAuthDCTV(IConnection conn, Object[] params)AppConnect{
+    public boolean verifyAuthDCTV(IConnection conn, Object[] params){
         if (params.length < 1){
             log.warn("There were only {} parameters passed.", params.length);
             return false;
@@ -121,9 +121,9 @@ public class Application extends MultiThreadedApplicationAdapter {
         //Now we try with the URL added name instead...
         //
         String scopeName=null;
-        Iterator scopeNameIterator=Iconnection.getScope().getScopeNames();
+        Iterator scopeNameIterator=conn.getScope().getScopeNames();
         while(scopeNameIterator.hasNext()){
-            log.warn("Got a scope of {}", scopeNameIterator.getNext());
+            log.warn("Got a scope of {}", scopeNameIterator.next());
         }
 
 
