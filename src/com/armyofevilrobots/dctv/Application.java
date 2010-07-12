@@ -9,6 +9,7 @@ import org.red5.server.adapter.ApplicationAdapter;
 import org.red5.server.adapter.MultiThreadedApplicationAdapter;
 import org.red5.server.api.IConnection;
 import org.red5.server.api.IScope;
+import org.red5.server.Scope;
 import org.red5.server.api.stream.IServerStream;
 import org.red5.server.api.stream.IBroadcastStream;
 import org.red5.server.api.IClient;
@@ -66,7 +67,7 @@ public class Application extends MultiThreadedApplicationAdapter {
             boolean auxauth=false;
             String auxToken = conn.getScope().getName();
             log.warn("Aux token is '{}'", auxToken);
-            auxauth = authAdaptor.checkToken(auxToken, "broadcast")||verifyAuthDCTV(conn, params);
+            auxauth = authAdaptor.checkToken(auxToken, "broadcast") || verifyAuthDCTV(conn, params);
             log.warn("Aux auth is {}",auxauth);
 
             
@@ -87,14 +88,26 @@ public class Application extends MultiThreadedApplicationAdapter {
             else if(isRoom(scope)){
                 //Over-ride the current scope then.
                 if(scope.getName()!="dctv"){
-                    scope = scope.getParent();
-                }
-                log.warn("Connecting to room scope parent {}",scope.getParent());
-                if (!super.connect(conn, scope, params)) {
-                    return false;
+                    log.warn("Swapping old scope from {} to {}", scope, scope.getParent());
+                    log.warn("Connecting to room scope parent {}",scope.getParent());
+                    final IScope oldscope = scope;
+                    final IScope newparent = scope.getParent();
+                    if(newparent.connect(conn, params)){
+                        oldscope.disconnect(conn);
+                    }
+
+                    if (!super.connect(conn, scope.getParent(), params)) {
+                        return false;
+                    }
+                }else{
+                    log.warn("Connecting to room scope parent {}",scope);
+                    if (!super.connect(conn, scope, params)) {
+                        return false;
+                    }
                 }
 
             }
+
             if (log.isInfoEnabled()) {
                 // log w3c connect event
                 IClient client = conn.getClient();
@@ -135,7 +148,6 @@ public class Application extends MultiThreadedApplicationAdapter {
             log.warn("Found stream {}", stream);
             log.warn("Provider:provider is {}", ((ClientBroadcastStream)stream.getProvider()).getConnection());
             log.warn("Provider:publishedName is {}", ((ClientBroadcastStream)stream.getProvider()).getPublishedName());
-            log.warn("Provider:publishedName is {}", ((ClientBroadcastStream)stream.getProvider()).getPublishedName());
             log.warn("BroadcastStreamNames are {}", getBroadcastStreamNames(appScope));
             log.warn("Auth is {}", auth);
             if (!auth){
@@ -164,6 +176,10 @@ public class Application extends MultiThreadedApplicationAdapter {
                     log.warn("Couldnt nuke old stream. Continuing with trepidation ;)");
                 }
                 */
+            }
+            if(stream.getScope().getName()!="dctv"){
+                log.warn("Over-riding to parent stream source scope of {}", stream.getScope().getParent());
+                ((ClientBroadcastStream)stream).setScope(stream.getScope().getParent());
             }
             super.streamPublishStart(stream);
         }
