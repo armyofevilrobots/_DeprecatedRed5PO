@@ -9,7 +9,12 @@
             <url name="googlecode">
                 <artifact pattern="http://red5.googlecode.com/svn/repository/[artifact](-[revision]).[ext]" />
                 <artifact pattern="http://red5.googlecode.com/svn/repository/[organisation]/[artifact](-[revision]).[ext]" />
-            </url>
+                </url>
+                <url name="cbiit-ivy-repo">
+				<!-- remote enterprise repository -->
+				<artifact pattern="https://ncisvn.nci.nih.gov/svn/cbiit-ivy-repo/trunk/[organisation]/[module]/[revision]/[artifact]-[revision].[ext]" />
+				<ivy pattern="https://ncisvn.nci.nih.gov/svn/cbiit-ivy-repo/trunk/[organisation]/[module]/[revision]/ivy.xml" />
+			</url>
         </chain>
     </resolvers>
 </ivysettings>

@@ -5,11 +5,11 @@
    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd" 
    version="2.4"> 
  
-    <display-name>oflaDemo</display-name>
+    <display-name>dctv</display-name>
 	
 	<context-param>
 		<param-name>webAppRootKey</param-name>
-		<param-value>/oflaDemo</param-value>
+		<param-value>/dctv</param-value>
 	</context-param>
  
     <listener>
@@ -35,7 +35,7 @@
    	<servlet>
    		<display-name>SecurityTest</display-name>
    		<servlet-name>SecurityTest</servlet-name>
-   		<servlet-class>org.red5.demos.oflaDemo.SecurityTest</servlet-class>
+   		<servlet-class>com.armyofevilrobots.dctv.SecurityTest</servlet-class>
    	</servlet>
     
 	<servlet-mapping>

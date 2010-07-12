@@ -20,5 +20,7 @@
         <dependency name="jul-to-slf4j" rev="1.5.10" />
         <dependency name="logback-core" rev="0.9.18" />
         <dependency name="logback-classic" rev="0.9.18" />
+        <!-- MYSQL -->
+        <dependency name="mysql-connector-java" org="com.mysql" rev="5.0.8" />
     </dependencies>
 </ivy-module>

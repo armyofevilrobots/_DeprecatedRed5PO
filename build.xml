@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<project name="dctv_red5" basedir="." default="war" xmlns:ivy="antlib:org.apache.ivy.ant">
+<project name="dctv_red5" basedir="." default="all" xmlns:ivy="antlib:org.apache.ivy.ant">
     <!-- project properties -->
     <property environment="env"/>
     <!-- user overides for project properties -->
